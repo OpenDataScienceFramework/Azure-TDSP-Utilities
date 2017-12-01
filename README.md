@@ -1,5 +1,7 @@
 # Data Science Utilities from Microsoft
 
+### This project is heavily based on [Azure's TDSP Utilities](https://github.com/Azure/Azure-TDSP-Utilities)
+
 [**Interactive Data Exploration, Analysis, and Reporting**](DataScienceUtilities/DataReport-Utils/) | [**Automated Modeling and Reporting**](DataScienceUtilities/Modeling/) | [**TDSP**](https://github.com/Azure/Microsoft-TDSP)
 
 This repository contains the **Data Science Utilities** developed by **Team Data Science Process (TDSP) from Microsoft**. 
